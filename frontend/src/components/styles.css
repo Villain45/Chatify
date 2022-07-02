@@ -1,0 +1,15 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.typing {
+    margin-left:15px;
+    margin-top: 0px;
+    margin-bottom:3px;
+    color: green;
+    font-style: italic;
+    font-size: 20px;
+}
